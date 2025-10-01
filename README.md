@@ -1,4 +1,3 @@
-# TakeHomeProject
 # Census Income Classification & Segmentation Project
 
 ## Contents
