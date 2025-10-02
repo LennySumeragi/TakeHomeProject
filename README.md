@@ -3,7 +3,7 @@
 ## Contents
 - classification.py : Train & evaluate classification model (RandomForest with preprocessing).
 - segmentation.py : Build segmentation (KMeans) and output cluster assignments + summary.
-- PROJECT_REPORT.md : Project report for the client.
+- PROJECT_REPORT.docx : Project report for the client.
 
 ## Environment & Dependencies
 Recommended: Python 3.8+.
